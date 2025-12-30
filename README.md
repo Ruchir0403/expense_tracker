@@ -31,7 +31,7 @@ Follow these steps to run the application locally.
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ruchir0403/expense_tracker.git
 cd expense_tracker
 flutter pub get
 ```
